@@ -1,6 +1,3 @@
-<h1> Magic</h1>
-
-
 import random
 
 name = "Magic 8-Ball Shaker"
