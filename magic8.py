@@ -1,3 +1,5 @@
+<h1> Magic</h1>
+
 
 import random
 
